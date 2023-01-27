@@ -1,0 +1,16 @@
+body {
+    padding: 20px;
+}
+
+#table-scroll {
+    overflow:auto; 
+    /* height:600px; */
+}
+
+.dataframe {
+    white-space: nowrap; 
+}
+
+td {
+    border:1px solid black;
+}
